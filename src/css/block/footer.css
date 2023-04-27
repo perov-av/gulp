@@ -1,0 +1,10 @@
+/* Стили подвала сайта */
+.test-footer {
+	color: aliceblue;
+}
+@media (max-width: 700px) {
+	h1 {
+		display: none;
+	}
+	
+}

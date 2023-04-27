@@ -1,0 +1,17 @@
+@import "block/reset";
+/* Подключаем шрифты */
+/* @font-face {
+	font-family: ;
+	src: url();
+} */
+/* Ниже подключаем отдельные файлы CSS по блокам и по подключаемым библиотекам */
+@import "block/header";
+@import "block/footer";
+
+/* Основные стили */
+footer 
+	color: #0704b6;
+
+h1
+	font-size: 32px;
+	font-weight: 900;

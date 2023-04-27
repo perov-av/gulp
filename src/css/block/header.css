@@ -1,0 +1,12 @@
+/* Стили шапки сайта */
+.test-header {
+	color: navajowhite;
+	display: flex;
+}
+
+@media (max-width: 700px) {
+	p {
+		display: none;
+	}
+	
+}
